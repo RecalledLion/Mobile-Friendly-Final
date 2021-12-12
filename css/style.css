@@ -20,7 +20,7 @@
     padding-top: 25px;
 }
 nav{
-    position: fixed;
+    position: relative;
     padding: 10px 20px 10px 10px;
     text-align: right;
     z-index: 1;
@@ -64,7 +64,7 @@ nav:after{
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
-    position: fixed;
+    position: absolute;
     height: 100%;
     overflow: auto;
     
