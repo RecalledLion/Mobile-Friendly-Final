@@ -117,3 +117,21 @@ div.content {
 .form{
     height: 100%;
 }
+.Footer{
+    height: 5vh
+}
+.fa-facebook{
+    margin-right: 10px;
+    font-size: 1.8em;
+    float: right;
+}
+.fa-twitter{
+    margin-right: 10px;
+    font-size: 1.8em;
+    float: right;
+}
+.fa-instagram-square{
+    margin-right: 10px;
+    font-size: 1.8em;
+    float: right;
+}
