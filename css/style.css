@@ -116,6 +116,7 @@ div.content {
 }
 }
 .Footer{
+    float: right;
     height: 5vh
 }
 .fa-facebook{
